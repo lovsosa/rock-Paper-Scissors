@@ -6,7 +6,7 @@ import React, { Component } from "react";
 
 export default class App extends Component {
   state = {
-    userChoice: "",nb mh
+    userChoice: "",
     compChoice: "",
     wins: 0,
     lose: 0,
